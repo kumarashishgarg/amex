@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+nohup.out
+
+# Maven
+log/
+target/
+
+# Executables
+*.jar
+
+#resoucces folders
+schema-register-service/src/main/resources/*
+atworks-subscriber/src/main/resources/
+subscriber/src/main/resources
